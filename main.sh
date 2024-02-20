@@ -28,7 +28,14 @@ do
                           cat students-list_1023.txt
                  else
                          echo "No students"
+           
                  fi
+        elif (( $option == 3 ))
+        then
+                echo "Enter the ID to delete"
+                read ID
+                sed -i ", /$ID\$/d" students-list_1023.txt
 	fi
+         
 done
 
