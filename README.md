@@ -26,17 +26,20 @@ chmod +x main.sh
 
 2. To select the student-emails, do the following:
 ```bash
+chmod +x select-emails.sh
 ./select-emails.sh
 cat student-emails.txt
 ``` 
 3. To move all files from question 1 to negpod_27-q1 directory, do the following:
 ```bash
+chmod +x move-todirectory.sh
 ./move-to-directory.sh
 cd negpod_27-q1 
 ls
 ```
 4. To back up negpod_27-q1
 ```bash
+chmod +x backup-Negod_27.sh
 ./backup-Negpod_27.sh
 ```
 - Then you will be prompted to enter the password 
