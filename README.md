@@ -36,7 +36,7 @@ cd negpod_27-q1
 ls
 ```
 4. To back up negpod_27-q1
-   ```
-  ./backup-Negpod_27.sh
-   ```
+```
+./backup-Negpod_27.sh
+```
 - Then you will be prompted to enter the password 
