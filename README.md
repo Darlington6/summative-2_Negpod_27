@@ -29,10 +29,14 @@ chmod +x main.sh
 ./select-emails.sh
 cat student-emails.txt
 ``` 
-3. To move all file from question 1 to negpod_27-q1 directory, do the following:
+3. To move all files from question 1 to negpod_27-q1 directory, do the following:
 ```
 ./move-to-directory.sh
 cd negpod_27-q1 
 ls
 ```
- 
+4. To back up negpod_27-q1
+   ```
+  ./backup-Negpod_27.sh
+   ```
+- Then you will be prompted to enter the password 
