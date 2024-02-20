@@ -4,7 +4,7 @@ This repo contains shell programming code
 This application registers ALU students, taking their emails, ages, and IDs.
 
 1. To use this application follow the below steps:
-```
+```bash
 git clone git@github.com:Darlington6/summative-2_Negpod_27.git
 cd summative-2_Negpod_27/
 chmod +x main.sh
@@ -25,18 +25,18 @@ chmod +x main.sh
 - Option 5 allows you to exit the application.
 
 2. To select the student-emails, do the following:
-```
+```bash
 ./select-emails.sh
 cat student-emails.txt
 ``` 
 3. To move all files from question 1 to negpod_27-q1 directory, do the following:
-```
+```bash
 ./move-to-directory.sh
 cd negpod_27-q1 
 ls
 ```
 4. To back up negpod_27-q1
-```
+```bash
 ./backup-Negpod_27.sh
 ```
 - Then you will be prompted to enter the password 
