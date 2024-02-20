@@ -34,7 +34,7 @@ do
         then
                 echo "Enter the ID to delete"
                 read ID
-                sed -i ", /$ID\$/d" students-list_1023.txt
+                sed -i "/, $ID\$/d" students-list_1023.txt
  	elif (( $option == 4 ))
         then
                 echo "Please enter the student ID"
