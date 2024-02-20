@@ -23,4 +23,9 @@ chmod +x main.sh
 - Option 3 allows you to delete the record of a student using their student ID.
 - Option 4 allows you to make changes to the records of a student using their IDs.
 - Option 5 allows you to exit the application.
-- 
+
+2. To select the student-emails, do the following:
+```
+./select-emails.sh
+cat student-emails.txt
+``` 
