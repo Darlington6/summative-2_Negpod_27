@@ -22,6 +22,13 @@ do
                 else
                         echo  $email, $age, $ID > students-list_1023.txt
                 fi
+	elif  (( $option == 2 ))
+        then
+                 if [ -f students-list_1023.txt ]; then
+                          cat students-list_1023.txt
+                 else
+                         echo "No students"
+                 fi
 	fi
 done
 
