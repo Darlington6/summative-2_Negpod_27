@@ -29,3 +29,10 @@ chmod +x main.sh
 ./select-emails.sh
 cat student-emails.txt
 ``` 
+3. To move all file from question 1 to negpod_27-q1 directory, do the following:
+```
+./move-to-directory.sh
+cd negpod_27-q1 
+ls
+```
+ 
