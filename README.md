@@ -42,4 +42,4 @@ ls
 chmod +x backup-Negod_27.sh
 ./backup-Negpod_27.sh
 ```
-- Then you will be prompted to enter the password 
+ Then you will be prompted to enter the password 
