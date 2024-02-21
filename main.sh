@@ -1,5 +1,5 @@
 #!/bin/bash
-#create students record
+##create students record
 while true
 do
         echo "options:
@@ -53,5 +53,9 @@ do
                 else
                         echo "The provided Student ID is not registered. Please try again"
 		fi
+		#Exit application
+	elif (( $option == 5 ))
+	then
+		exit 1
 	fi
 done
