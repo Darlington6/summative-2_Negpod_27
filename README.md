@@ -43,3 +43,14 @@ chmod +x backup-Negod_27.sh
 ./backup-Negpod_27.sh
 ```
  Then you will be prompted to enter the password 
+
+ ## Contributors
+
+- [Desmond Tunyinko](https://github.com/Darlington6)
+- [Carine A. Yibukabayo](https://github.com/carine-ahishakiye)
+- [Etienne Kagaba](https://github.com/etienne-kagaba)
+- [Chartine Noella Uwase](https://github.com/nChartine)
+- [Murenzi Bonheur](https://github.com/Bobson02)
+- [Makuochi Okoye](https://github.com/Makito042)
+
+Thank you for visiting ❤️
